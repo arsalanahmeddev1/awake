@@ -24,26 +24,34 @@ function About() {
           </div>
         </div>
         <div className="md:col-span-6 md:col-start-7">
-          <div className="text-xs tracking-[0.3em] text-[var(--tan-deep)] uppercase mb-6">About Anne</div>
+          <div className="text-xs tracking-[0.3em] text-[var(--tan-deep)] uppercase mb-6">Anne Elizabeth Ubl, M.A.</div>
           <h1 className="font-serif text-5xl md:text-6xl text-primary leading-[1.05] mb-8">
-            Anne Ubl
+          Founder, AWAKE Wardrobe
           </h1>
           <div className="space-y-6 text-lg text-primary/85 leading-[1.8]">
             <p>
-              Anne is a psychology-informed coach with a background in clinical training and
-              narrative therapy. For more than two decades she has worked closely with women — many
-              of them accomplished, capable, exhausted — who arrived needing something more honest
-              than advice.
+            hroughout her career and personal life, Anne became increasingly fascinated by the ways women adapt to changing roles and responsibilities. She observed that while careers evolve, children grow, relationships shift, and priorities transform, wardrobes often remain tethered to earlier versions of ourselves. The result is frequently a quiet but persistent sense of disconnect.
             </p>
             <p>
-              Her practice grew from a conviction that women in transition rarely need a strategy.
-              They need a steady, intelligent witness. Someone who can hold what they are carrying
-              without trying to lighten it prematurely.
+            AWAKE Wardrobe was created to address that gap.
             </p>
             <p>
-              Anne lives and works between client sessions, writing, and the quiet study of how
-              women come back into contact with themselves. Awake is the name she has given to that
-              work.
+            Drawing from principles of psychology, identity development, and self-authorship, Anne helps women refine their wardrobes so they reflect who they have become rather than who they once needed to be. Her approach is thoughtful, highly individualized, and focused on alignment rather than trends, helping clients cultivate wardrobes that feel elegant, effortless, and deeply authentic.
+            </p>
+            <p>
+            Anne's work is especially resonant for accomplished women navigating significant transitions—empty nesters, executives, entrepreneurs, caregivers, and women entering a new chapter of life. Through her signature Quiet Power Method™, she guides clients through a process of editing, refining, and redefining personal style as an expression of earned self-worth.
+            </p>
+            <p>
+            Anne divides her time between Florida, California, and Maryland. She is also the founder of AWAKE, a broader body of work focused on self-authorship, identity, discernment, and meaningful transitions.
+            </p>
+            <p>
+            Her philosophy is simple:
+            </p>
+            <p>
+            The right outfit does not make you someone else.
+
+
+
             </p>
           </div>
           <Link to="/contact" className="mt-12 inline-flex text-sm tracking-[0.2em] uppercase bg-primary text-primary-foreground px-8 py-4 hover:bg-primary/90 transition-colors">

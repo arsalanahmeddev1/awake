@@ -123,19 +123,16 @@ function Home() {
             </div>
           </div>
           <div className="md:col-span-6 md:col-start-7">
-            <div className="text-xs tracking-[0.3em] text-[var(--tan)] uppercase mb-4">About Anne</div>
+            <div className="font-serif text-4xl md:text-5xl text-secondary leading-tight mb-4">Anne Elizabeth Ubl, M.A.</div>
             <h2 className="font-serif text-4xl md:text-5xl mb-8 leading-tight">
-              Trained to listen for what isn't being said.
+            Founder, AWAKE Wardrobe
             </h2>
             <div className="space-y-5 text-primary-foreground/80 text-lg leading-[1.8]">
               <p>
-                Anne Ubl is a psychology-informed coach with a background in clinical training,
-                narrative therapy, and the careful study of women's interior lives. Her practice is
-                quiet, sophisticated, and deeply confidential.
+                Anne Elizabeth Ubl, M.A., is the founder of AWAKE Wardrobe, a psychology-informed wardrobe refinement practice for women in transition.
               </p>
               <p>
-                She works with women who are tired of performing wellness and ready for a different
-                kind of conversation.
+                A former healthcare executive, writer, and graduate of the University of Virginia and Pepperdine University’s master's program in psychology, Anne brings a unique perspective to the intersection of identity, personal style, and life transitions. Her work is grounded in the belief that clothing is more than appearance—it is one of the most visible expressions of who we are and how we move through the world.
               </p>
             </div>
             <Link to="/about" className="mt-10 inline-flex text-sm tracking-[0.2em] uppercase text-primary-foreground border border-primary-foreground/40 px-8 py-4 hover:bg-primary-foreground hover:text-primary transition-colors">

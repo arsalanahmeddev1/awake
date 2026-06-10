@@ -18,7 +18,7 @@ function About() {
     <div className="min-h-screen bg-background text-foreground">
       <SiteHeader />
       <section className="mx-auto max-w-6xl px-6 md:px-10 pt-24 md:pt-36 pb-24 grid md:grid-cols-12 gap-12 items-start">
-        <div className="md:col-span-5">
+        <div className="md:col-span-5 sticky top-[90px] self-start">
           <div className="aspect-[4/5] overflow-hidden bg-[var(--tan-soft)]">
             <img src="/anne-headshot.jpeg" alt="Anne Ubl" className="w-full h-full object-cover" />
           </div>

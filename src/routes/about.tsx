@@ -30,7 +30,7 @@ function About() {
           </h1>
           <div className="space-y-6 text-lg text-primary/85 leading-[1.8]">
             <p>
-            hroughout her career and personal life, Anne became increasingly fascinated by the ways women adapt to changing roles and responsibilities. She observed that while careers evolve, children grow, relationships shift, and priorities transform, wardrobes often remain tethered to earlier versions of ourselves. The result is frequently a quiet but persistent sense of disconnect.
+            Throughout her career and personal life, Anne became increasingly fascinated by the ways women adapt to changing roles and responsibilities. She observed that while careers evolve, children grow, relationships shift, and priorities transform, wardrobes often remain tethered to earlier versions of ourselves. The result is frequently a quiet but persistent sense of disconnect.
             </p>
             <p>
             AWAKE Wardrobe was created to address that gap.

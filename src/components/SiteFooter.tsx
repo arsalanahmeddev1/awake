@@ -8,13 +8,14 @@ export function SiteFooter() {
         <div>
           <img src={logo} alt="Awake — UBL Consulting" className="w-28 mb-6 opacity-90" />
           <p className="text-sm text-primary-foreground/70 max-w-xs leading-relaxed">
-            Insight. Strategy. Meaningful change. Psychology-informed coaching for women in transition.
+            Insight. Strategy. Meaningful change. Psychology-informed reflective advisory for women in transition.
           </p>
         </div>
         <div>
           <h4 className="font-serif text-lg mb-4">Explore</h4>
           <ul className="space-y-2 text-sm text-primary-foreground/80">
             <li><Link to="/the-work" className="hover:text-[var(--tan)]">The Work</Link></li>
+            <li><Link to="/programs" className="hover:text-[var(--tan)]">Programs</Link></li>
             <li><Link to="/about" className="hover:text-[var(--tan)]">About Anne</Link></li>
             <li><Link to="/contact" className="hover:text-[var(--tan)]">Contact</Link></li>
           </ul>

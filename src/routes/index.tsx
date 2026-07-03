@@ -7,7 +7,7 @@ export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
       { title: "Awake — A calm place to think clearly about your life" },
-      { name: "description", content: "Psychology-informed coaching for accomplished women navigating transition, identity shifts, and the quiet process of becoming more fully themselves." },
+      { name: "description", content: "Psychology-informed reflective advisory for accomplished women navigating transition, identity shifts, and the quiet process of becoming more fully themselves." },
     ],
     links: [{ rel: "canonical", href: "/" }],
   }),
@@ -28,7 +28,7 @@ function Home() {
         {/* Content */}
         <div className="relative mx-auto max-w-6xl px-6 md:px-10 py-32 md:py-40 w-full">
           <div className="text-xs tracking-[0.3em] text-[var(--tan)] uppercase mb-8">
-            Psychology-Informed Coaching
+            Psychology-Informed reflective advisory
           </div>
           <h1 className="font-serif text-5xl md:text-7xl lg:text-[5.5rem] text-primary-foreground leading-[1.05] max-w-4xl">
             A calm place<br />
@@ -126,14 +126,14 @@ function Home() {
           <div className="md:col-span-6 md:col-start-7">
             <div className="font-serif text-4xl md:text-5xl text-secondary leading-tight mb-4">Anne Elizabeth Ubl, M.A.</div>
             <h2 className="font-serif text-4xl md:text-5xl mb-8 leading-tight">
-            Founder, AWAKE Wardrobe
+            Founder, AWAKE
             </h2>
             <div className="space-y-5 text-primary-foreground/80 text-lg leading-[1.8]">
               <p>
-                Anne Elizabeth Ubl, M.A., is the founder of AWAKE Wardrobe, a psychology-informed wardrobe refinement practice for women in transition.
+              A former healthcare executive, writer, and graduate of the University of Virginia and Pepperdine University’s master’s program in psychology, Anne brings a multidisciplinary perspective to the ways people grow, adapt, and redefine themselves across the lifespan. Drawing on psychology, lived experience, and thoughtful inquiry, her work explores how our external lives and our inner lives can come into greater alignment.
               </p>
               <p>
-                A former healthcare executive, writer, and graduate of the University of Virginia and Pepperdine University’s master's program in psychology, Anne brings a unique perspective to the intersection of identity, personal style, and life transitions. Her work is grounded in the belief that clothing is more than appearance—it is one of the most visible expressions of who we are and how we move through the world.
+              Through her writing, speaking, and educational work, Anne invites people to approach change not as something to survive, but as an opportunity to live with greater clarity, authenticity, and intention.
               </p>
             </div>
             <Link to="/about" className="mt-10 inline-flex text-sm tracking-[0.2em] uppercase text-primary-foreground border border-primary-foreground/40 px-8 py-4 hover:bg-primary-foreground hover:text-primary transition-colors">

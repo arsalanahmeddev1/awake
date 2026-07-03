@@ -4,6 +4,7 @@ import logo from "@/assets/awake-logo.png";
 const links = [
   { to: "/", label: "Home" },
   { to: "/the-work", label: "The Work" },
+  { to: "/programs", label: "Programs" },
   { to: "/about", label: "About" },
   { to: "/contact", label: "Contact" },
 ] as const;

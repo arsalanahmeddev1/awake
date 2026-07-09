@@ -3,7 +3,7 @@ import { Link } from "@tanstack/react-router";
 
 export function SiteFooter() {
   return (
-    <footer className="bg-primary text-primary-foreground mt-32">
+    <footer className="bg-primary text-primary-foreground">
       <div className="mx-auto max-w-6xl px-6 md:px-10 py-20 grid md:grid-cols-3 gap-12">
         <div>
           <img src={logo} alt="Awake — UBL Consulting" className="w-28 mb-6 opacity-90" />

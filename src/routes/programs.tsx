@@ -105,9 +105,9 @@ function Programs() {
           <div className="absolute inset-0 bg-gradient-to-b from-[var(--primary)]/92 via-[var(--primary)]/85 to-[var(--primary)]/95" />
         </div>
         <div className="relative mx-auto max-w-6xl px-6 md:px-10 pt-28 md:pt-40 pb-20 md:pb-28">
-          <div className="text-xs tracking-[0.3em] text-[var(--tan)] uppercase mb-6">Programs</div>
+          {/* <div className="text-xs tracking-[0.3em] text-[var(--tan)] uppercase mb-6">Programs</div> */}
           <h1 className="font-serif text-5xl md:text-7xl text-primary-foreground leading-[1.05] max-w-3xl mb-12">
-            Pricing
+            Programs
           </h1>
           <nav className="flex flex-wrap gap-3" aria-label="Program sections">
             {[
